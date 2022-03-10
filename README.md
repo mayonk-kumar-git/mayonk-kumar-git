@@ -1,11 +1,6 @@
 [![MastHead](https://github.com/mayonk-kumar-git/mayonk-kumar-git/blob/main/portfolio.JPG?raw=true)](https://zealous-wright-5b8437.netlify.app/)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=OPEN%20SOURCE%20FOR%20THE%20WIN!;Join%20EddieHub%20Community;Collaboration%201st,%20Code%202nd.;Community%20make%20things%20easier;You%20don't%20have%20to%20be%20an%20expert%20to%20teach;Let's%20support%20each%20other;&center=true&width=470&height=45"></a>
-</p>
-
-
-# Hello there! 🙋🏻‍♂️ I am Mayonk Kumar Behera! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
+## नमस्ते (Namaste) # Hello there! 🙋🏻‍♂️ I am Mayonk Kumar Behera! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 
 I am a web developer and React native mobile app developer. I love creating modern, elegant, and interactive websites and apps. Being a passionate developer, I enjoy to take up challenging projects and to come up with interesting and creative solutions. 
 
@@ -54,3 +49,6 @@ Watch my contribution graph being eaten by a Snake! 🐍
 
 ![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/snake.svg)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
