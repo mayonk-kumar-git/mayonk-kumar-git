@@ -7,10 +7,10 @@ I am a web developer and React native mobile app developer. I love creating mode
 Besides coding, I love painting, reading books and poetries, playing basketball, and admiring the beauty of nature through the eyes of math and physics.
 
 
-## Connect with Me 🤝🏻
+<!-- ## Connect with Me 🤝🏻
 
 [![Website](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/ws.svg)](https://zealous-wright-5b8437.netlify.app/) [![LinkedIn](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/li.svg)](https://www.linkedin.com/in/mayonk-kumar/) [![Twitter](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/tw.svg)](https://twitter.com/MayonkKumar) [![GitHub](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/gh.svg)](https://github.com/mayonk-kumar-git) [![Facebook](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/fb.svg)](https://www.facebook.com/mayank.kumarbehera.54) [![Instagram](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/ig.svg)](https://www.instagram.com/_mayank._.kumar_/)
-
+ -->
 
 | ![Praveen GitHub Statistics](https://github-readme-stats.vercel.app/api?username=mayonk-kumar-git&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayonk-kumar-git) |
 | --- | --- |
