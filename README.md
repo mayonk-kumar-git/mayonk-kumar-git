@@ -1,4 +1,4 @@
-[![MastHead](https://github.com/mayonk-kumar-git/mayonk-kumar-git/blob/main/portfolio.JPG?raw=true)](https://zealous-wright-5b8437.netlify.app/)
+[![MastHead](https://github.com/mayonk-kumar-git/mayonk-kumar-git/blob/main/portfolio.JPG?raw=true)](https://mayonk-kumar.netlify.app/)
 
 ## नमस्ते (Namaste) # Hello there! 🙋🏻‍♂️ I am Mayonk Kumar Behera! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 
